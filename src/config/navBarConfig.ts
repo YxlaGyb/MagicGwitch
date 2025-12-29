@@ -16,7 +16,11 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 
 	// 支持自定义导航栏链接,并且支持多级菜单
 	links.push({
+<<<<<<< HEAD
 		name: "链接",
+=======
+		name: "Links",
+>>>>>>> my-asdhfo
 		url: "/links/",
 		icon: "material-symbols:link",
 		children: [
@@ -43,7 +47,11 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 	}
 
 	links.push({
+<<<<<<< HEAD
 		name: "关于",
+=======
+		name: "about",
+>>>>>>> my-asdhfo
 		url: "/content/",
 		icon: "material-symbols:info",
 		children: [

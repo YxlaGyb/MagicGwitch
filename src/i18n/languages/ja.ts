@@ -199,7 +199,11 @@ export const ja: Translation = {
 	[Key.sponsorGoTo]: "スポンサーへ",
 	[Key.sponsorButton]: "サポートと共有",
 	[Key.sponsorButtonText]:
+<<<<<<< HEAD
 		"この記事が役に立ったなら、共有またはサポートをお願いします！",
+=======
+		"この記事は役に立ちましたか？",
+>>>>>>> my-asdhfo
 
 	[Key.shareOnSocial]: "共有",
 	[Key.shareOnSocialDescription]:

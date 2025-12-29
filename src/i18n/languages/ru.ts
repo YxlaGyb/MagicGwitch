@@ -201,7 +201,11 @@ export const ru: Translation = {
 	[Key.sponsorGoTo]: "Перейти к спонсору",
 	[Key.sponsorButton]: "Поддержка и Поделиться",
 	[Key.sponsorButtonText]:
+<<<<<<< HEAD
 		"Если эта статья помогла вам, пожалуйста, поделитесь или поддержите!",
+=======
+		"Эта статья была для вас полезной?",
+>>>>>>> my-asdhfo
 
 	[Key.shareOnSocial]: "Поделиться",
 	[Key.shareOnSocialDescription]:

@@ -194,11 +194,7 @@ export const zh_TW: Translation = {
 	[Key.sponsorGoTo]: "前往贊助",
 	[Key.sponsorButton]: "支持與分享",
 	[Key.sponsorButtonText]:
-<<<<<<< HEAD
-		"如果這篇文章對你有幫助，歡迎分享給更多人或贊助支持！",
-=======
 		"這篇文章是否對你有幫助？",
->>>>>>> my-asdhfo
 
 	[Key.shareOnSocial]: "分享",
 	[Key.shareOnSocialDescription]: "如果這篇文章對你有幫助，歡迎分享給更多人！",
